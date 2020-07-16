@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "295185013146",
+    "firebase_url": "https://fir-demo-2cc3c.firebaseio.com",
+    "project_id": "fir-demo-2cc3c",
+    "storage_bucket": "fir-demo-2cc3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295185013146:android:84756d98531ed285acc223",
+        "android_client_info": {
+          "package_name": "com.example.ui2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295185013146-8b8s3u18ai57f5dptnnsud4ekj9uof9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhSfvrYJGtZbEVhg5ZMQNmu1zRTJrQ9FY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295185013146-8b8s3u18ai57f5dptnnsud4ekj9uof9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295185013146:android:a1da6902d427ec2dacc223",
+        "android_client_info": {
+          "package_name": "com.uoh.covidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295185013146-8b8s3u18ai57f5dptnnsud4ekj9uof9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhSfvrYJGtZbEVhg5ZMQNmu1zRTJrQ9FY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295185013146-8b8s3u18ai57f5dptnnsud4ekj9uof9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
